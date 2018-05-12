@@ -1,0 +1,43 @@
+_repo: The-Story-of-Jack-and-the-Giants_15621
+_version: 0.1.0
+contributor:
+  engineers:
+  - agent_name: Dalziel, Edward
+    birthdate: 1817
+    deathdate: 1905
+    gutenberg_agent_id: '32392'
+    url: http://www.gutenberg.org/2009/agents/32392
+  - agent_name: Dalziel, George
+    birthdate: 1815
+    deathdate: 1902
+    gutenberg_agent_id: '32424'
+    url: http://www.gutenberg.org/2009/agents/32424
+  illustrator:
+    agent_name: Doyle, Richard
+    aliases:
+    - Kitcat, Dick
+    - Doyle, R. (Richard)
+    birthdate: 1824
+    deathdate: 1883
+    gutenberg_agent_id: '9472'
+    url: http://www.gutenberg.org/2009/agents/9472
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Doyle_%28illustrator%29
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_bookshelf: Children's Picture Books
+gutenberg_issued: '2005-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15621'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Giants -- Juvenile fiction'
+- !lcsh 'Fairy tales'
+- !lcc 'PZ'
+title: The Story of Jack and the Giants
+url: http://www.gutenberg.org/ebooks/15621
